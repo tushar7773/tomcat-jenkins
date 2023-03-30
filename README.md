@@ -1,2 +1,3 @@
-# tomcat-jenkins
-tomcat apache maven jenkins project
+# maven-project
+
+Simple Maven Project
